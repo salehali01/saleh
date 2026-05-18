@@ -1,3 +1,8 @@
 my name is saleh
+<<<<<<< HEAD
+im salam and now i write tow lines
+i know this text not a story but bthis for tet 
+=======
 this is a test line
 
+>>>>>>> d947ed99b773e92ccdce95c56e1b28f01315269f
